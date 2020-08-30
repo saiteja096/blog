@@ -1,5 +1,2 @@
 {
-  "require": {
-    "uploadcare/uploadcare-php": ">=v2.0,<3.0"
-  }
 }

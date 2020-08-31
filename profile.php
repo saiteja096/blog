@@ -15,6 +15,9 @@
 </head>
 <body>
   <style>
+  * {
+  box-sizing: border-box;
+}
   .navbar {
   	margin: 0 auto;
       overflow: hidden;

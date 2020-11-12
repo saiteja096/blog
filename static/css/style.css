@@ -449,9 +449,9 @@ pre {
 .container {
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 10px;
   margin-right: auto;
-  margin-left: auto; }
+  margin-left: 10px; }
   @media (min-width: 576px) {
     .container {
       max-width: 540px; } }
